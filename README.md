@@ -1,5 +1,6 @@
 # laundry management system
 <!-- README -->
+<!-- Mario Flores Propietari -->
 ---
 ## Using Tech:
 
