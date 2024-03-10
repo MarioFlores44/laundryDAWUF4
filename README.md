@@ -1,6 +1,6 @@
 # laundry management system
 <!-- README -->
-<!-- Mario Flores Propietari -->
+<!-- Mario Flores Propietariii -->
 ---
 ## Using Tech:
 
@@ -36,4 +36,3 @@
 - Website - [Mohaiminur](https://mohaiminur.ml)
 
 ---
-<!--angel tarensi desde repo Mario-->
